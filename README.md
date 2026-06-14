@@ -1,2 +1,0 @@
-# my-calcu
-my calcu
